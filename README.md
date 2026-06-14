@@ -16,15 +16,6 @@
 
 Backend engineer specializing in distributed systems, scalable APIs, and event-driven architecture.
 
-### Selected Work
-
-| Project                                                | Role                          | Notes                                                                                                                                                                                                                           |
-| ------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **NST Cyber Assure**                                   | Founding Engineer & Team Lead | Multi-tenant vulnerability-triage and threat-surface-management platform for banks. Took over a failed third-party build and rebuilt v1 from scratch, then owned the v2 rewrite off OutSystems to TypeScript on serverless AWS. |
-| [**Tarpan**](https://github.com/divyangchauhan/Tarpan) | Solo · Open source            | SaaS that helps families handle the administrative aftermath of a death, powered by an LLM document pipeline.                                                                                                                   |
-| **Hunter**                                             | Solo · Building               | AI penetration-testing and bug-bounty tool.                                                                                                                                                                                     |
-| **ResumeForge**                                        | Solo · Building               | SaaS for tailoring and polishing resumes to specific roles.                                                                                                                                                                     |
-
 ### Toolbox
 
 ```txt
