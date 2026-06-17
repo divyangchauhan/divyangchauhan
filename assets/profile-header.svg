@@ -77,13 +77,13 @@
 
       <text x="26" y="188" fill="#5CE38A">➜</text>
       <text x="46" y="188" fill="#788397">~</text>
-      <text x="64" y="188" fill="#E6E9EF">stack --top</text>
-      <text x="26" y="211" fill="#AAB2C0">TypeScript · Python · NestJS · AWS</text>
+      <text x="64" y="188" fill="#E6E9EF">built</text>
+      <text x="26" y="211" fill="#AAB2C0">multi-tenant SaaS · EVM pipelines</text>
 
       <text x="26" y="243" fill="#5CE38A">➜</text>
       <text x="46" y="243" fill="#788397">~</text>
       <text x="64" y="243" fill="#E6E9EF">focus</text>
-      <text x="26" y="266" fill="#AAB2C0">event-driven · serverless · web3</text>
+      <text x="26" y="266" fill="#AAB2C0">event-driven · serverless · cloud</text>
     </g>
   </g>
 
