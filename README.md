@@ -14,18 +14,16 @@
 
 ---
 
-Backend engineer specializing in distributed systems, scalable APIs, and event-driven architecture.
-
 ### Toolbox
 
 ```txt
-languages      TypeScript · Python · JavaScript · SQL · Solidity
-backend        NestJS · Django REST Framework · AWS Lambda · MongoDB · CASL.js · GraphQL · TypeORM
-frontend       Angular · React · Next.js · CloudFront
-infra          AWS · ECS · S3 · Terraform · serverless
+languages      TypeScript · Python · JavaScript
+backend        NestJS · Django REST framework · GraphQL · TypeORM
+frontend       React · Next.js
+infra          AWS Lambda · S3 · CloudFront · Terraform · serverless
 data/events    PostgreSQL · MongoDB · MySQL · Apache Kafka
 security       OSCP · pentest-driven hardening · access-control design
-ai/web3        Claude pipelines · viem · EVM integration layers
+web3/ai        Solidity · viem · EVM event pipelines · Claude pipelines
 ```
 
 ---
