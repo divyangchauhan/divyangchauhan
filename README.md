@@ -23,7 +23,7 @@ frontend       React · Next.js
 infra          AWS Lambda · S3 · CloudFront · Terraform · serverless
 data/events    PostgreSQL · MongoDB · MySQL · Apache Kafka
 security       OSCP · pentest-driven hardening · access-control design
-web3/ai        Solidity · viem · EVM event pipelines · Claude pipelines
+web3/ai        Solidity · viem · EVM event pipelines · Claude API integrations
 ```
 
 ---
