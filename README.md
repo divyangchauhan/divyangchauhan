@@ -1,31 +1,33 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Divyang Chauhan - Full Stack Engineer" width="100%" />
-</p>
+# Divyang Chauhan
 
-<p align="center">
-  <a href="https://www.divyang.dev">divyang.dev</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/divyangchauhan">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:divyang@divyang.dev">divyang@divyang.dev</a>
-</p>
+I ship across the stack, from native desktop tools to verified smart contracts and production SaaS.
 
----
+### Native & local-first
 
-### Toolbox
+**Mushak:** Logitech Options+ replacement in pure Rust. 3.8 MB binary, low-level mouse hooks, HID++ 2.0.
 
-```txt
-languages      TypeScript · Python · JavaScript
-backend        NestJS · Django REST framework · GraphQL · TypeORM
-frontend       React · Next.js
-infra          AWS Lambda · S3 · CloudFront · Terraform · serverless
-database       PostgreSQL · MongoDB · MySQL
-security       OSCP · pentest-driven hardening · access-control design
-web3/ai        Solidity · viem · EVM event pipelines · Claude API integrations
-```
+**Shruti:** Local-first voice dictation for Windows.
 
----
+**Urukku:** A Rust-powered alternative to Obsidian.
 
-<p align="center">
-  <sub>Let's build something that holds up.</sub>
-</p>
+### Web3 & verification
+
+**kleros-v2-invariant-tests:** 133 verified properties. Foundry + Halmos + Echidna.
+
+**zkballot:** Anonymous ZK voting on Arbitrum Sepolia.
+
+### Products
+
+**Tarpan:** Automates post-death paperwork. NestJS + SQS + Lambda + Claude API, ~98% parse accuracy.
+
+**[ClinchCV](https://clinchcv.com):** Resume scoring, ATS checks, job fit analysis, and practical rewrites.
+
+**jobsieve:** Self-hosted job aggregator with 8 boards, deduplication, and fit scoring.
+
+**Pramana:** Under development.
+
+**Verdikt:** Under development.
+
+### For fun
+
+**Krell:** Browser multiplayer tactical shooter. No build step, zero assets, all audio synthesized. [▶ Play](https://krell.fly.dev/).
