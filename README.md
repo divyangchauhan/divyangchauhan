@@ -8,7 +8,7 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 **Shruti:** Local-first voice dictation for Windows.
 
-**Urukku:** A Rust-powered alternative to Obsidian.
+**Urukku:** A Rust-powered alternative to Obsidian. Under development.
 
 ### Web3 & verification
 
@@ -24,9 +24,9 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 **jobsieve:** Self-hosted job aggregator with 8 boards, deduplication, and fit scoring.
 
-**Pramana:** Under development.
+**Pramana:** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
 
-**Verdikt:** Under development.
+**Verdikt:** Cross-platform dashboard for Kleros jurors. Under development.
 
 ### For fun
 
