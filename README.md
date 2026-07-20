@@ -24,7 +24,7 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 **[jobsieve](https://github.com/divyangchauhan/jobsieve):** Self-hosted job aggregator with 8 boards, deduplication, and fit scoring.
 
-**Pramana:** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
+**[Pramana](https://github.com/divyangchauhan/Pramana):** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
 
 **Verdikt:** Cross-platform dashboard for Kleros jurors. Under development.
 
