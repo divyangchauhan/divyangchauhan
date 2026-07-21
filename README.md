@@ -8,8 +8,6 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 **[Shruti](https://github.com/divyangchauhan/Shruti):** Local-first voice dictation for Windows.
 
-**[Urukku](https://github.com/divyangchauhan/Urukku):** A Rust-powered alternative to Obsidian. Under development.
-
 ### Web3 & verification
 
 **[kleros-v2-invariant-tests](https://github.com/divyangchauhan/kleros-v2-invariant-tests):** 133 verified properties. Foundry + Halmos + Echidna.
