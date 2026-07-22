@@ -26,7 +26,7 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 ### Systems & desktop
 
-**[Mushak](https://github.com/divyangchauhan/Mushak):** Logitech Options+ replacement in pure Rust. 3.8 MB binary, low-level mouse hooks, HID++ 2.0.
+**[Mushak](https://github.com/divyangchauhan/Mushak):** Logitech Options+ replacement in pure Rust. 3.3 MB binary, low-level mouse hooks, HID++ 2.0.
 
 ### For fun
 
