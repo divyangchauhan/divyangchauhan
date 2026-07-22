@@ -6,9 +6,11 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 
 **[ClinchCV](https://clinchcv.com):** Resume scoring, ATS checks, job fit analysis, and practical rewrites.
 
-**[Pramana](https://github.com/divyangchauhan/Pramana):** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
-
 **[Shruti](https://github.com/divyangchauhan/Shruti):** Local-first voice dictation for Windows.
+
+### Agentic AI × Web3
+
+**[Pramana](https://github.com/divyangchauhan/Pramana):** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
 
 ### Web3 & verification
 
