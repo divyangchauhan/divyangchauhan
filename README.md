@@ -1,30 +1,22 @@
 # Divyang Chauhan
 
-I ship across the stack, from native desktop tools to verified smart contracts and production SaaS.
+I ship across the stack, from agent systems to native desktop tools and production SaaS.
 
 ### Applied AI
 
 **[ClinchCV](https://clinchcv.com):** Resume scoring, ATS checks, job fit analysis, and practical rewrites.
 
-**[Shruti](https://github.com/divyangchauhan/Shruti):** Local-first voice dictation for Windows.
+**[Shruti](https://github.com/divyangchauhan/Shruti):** Local-first voice dictation for Windows, using whisper.cpp for on-device transcription.
 
-### Agentic AI × Web3
+**[Tarpan](https://github.com/divyangchauhan/Tarpan):** Automates paperwork after a death through document extraction, institution-specific letters, and an asynchronous AWS processing pipeline.
 
-**[Pramana](https://github.com/divyangchauhan/Pramana):** Multi-agent smart contract audits that verify findings with executable Foundry proofs. Under development.
+### Agentic AI
 
-### Web3 & verification
+**[Pramana](https://github.com/divyangchauhan/Pramana):** A provider-neutral, multi-agent smart-contract auditor that verifies every reported vulnerability with an executable Foundry proof. Built around reproducible evaluations rather than model confidence.
 
-**[kleros-v2-invariant-tests](https://github.com/divyangchauhan/kleros-v2-invariant-tests):** 133 verified properties. Foundry + Halmos + Echidna.
-
-**[zkballot](https://github.com/divyangchauhan/zkballot):** Anonymous ZK voting on Arbitrum Sepolia.
-
-### Products
-
-**[Tarpan](https://github.com/divyangchauhan/Tarpan):** Automates post-death paperwork. NestJS + SQS + Lambda + Claude API, ~98% parse accuracy.
+### Backend and products
 
 **[jobsieve](https://github.com/divyangchauhan/jobsieve):** Self-hosted job aggregator with 8 boards, deduplication, and fit scoring.
-
-**Verdikt:** Cross-platform dashboard for Kleros jurors. Under development.
 
 ### Systems & desktop
 
@@ -33,3 +25,7 @@ I ship across the stack, from native desktop tools to verified smart contracts a
 ### For fun
 
 **[Krell](https://github.com/divyangchauhan/Krell):** Browser multiplayer tactical shooter. No build step, zero assets, all audio synthesized. [▶ Play](https://krell.fly.dev/).
+
+### Elsewhere
+
+**[Portfolio](https://divyang.dev)** · **[LinkedIn](https://www.linkedin.com/in/divyangchauhan/)**
