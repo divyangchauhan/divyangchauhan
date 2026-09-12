@@ -7,7 +7,7 @@ I ship across the stack, from agent systems to native desktop tools and producti
 
 **[Pramana](https://github.com/divyangchauhan/Pramana):** A provider-neutral, multi-agent smart-contract auditor that verifies every reported vulnerability with an executable Foundry proof. Built around reproducible evaluations rather than model confidence.
 
-**[DiffVouch](https://github.com/divyangchauhan/DiffVouch):** Portable AI code-review skill for Git diffs and pull requests, with actionable findings, inline GitHub comments, and a transparent rating out of 5.
+**[DiffVouch](https://github.com/divyangchauhan/DiffVouch):** Local-first Go CLI for AI code review of Git diffs and pull requests, with actionable findings, inline GitHub comments, and a transparent rating out of 5.
 
 
 ### Applied AI
