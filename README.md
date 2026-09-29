@@ -19,8 +19,6 @@ I ship across the stack, from agent systems to native desktop tools and producti
 
 ### Backend and products
 
-**[ClinchCV](https://clinchcv.com):** Tools for improving your resume.
-
 **[jobsieve](https://github.com/divyangchauhan/jobsieve):** Self-hosted job aggregator with 8 boards, deduplication, and fit scoring.
 
 
